@@ -1,0 +1,7 @@
+{
+  "name": "VAT Invoice Extractor",
+  "description": "An intelligent CRM tool to read physical bills in various languages (Arabic, English, Hindi, Urdu), extract the total amount, and calculate the 5% VAT applicable in Dubai.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
